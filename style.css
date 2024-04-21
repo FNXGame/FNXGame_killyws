@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(0, 0, 0);
+    text-decoration:chartreuse ;
+    text-shadow: 5px;
+    color: chartreuse;
+    font-family:monospace ;
+    letter-spacing: 0.1px;
+    font-display: 2;
+    
+
+}
+
+h1 {
+    font-size: 45px;
+    font-weight: 100;
+}
+
+h2 .hover {
+    animation: 4s;
+    -ms-zoom-animation: default;
+}
+
+input {
+    background-color: black;
+    color: chartreuse;
+    font-size: smaller;
+    width: 8cm;
+    height: 9cm;
+    font-family: monospace;
+}
