@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: chartreuse;
+    font-weight: 100;
+    letter-spacing: 2px;
+    font-family: monospace;
+}
+input {
+    background-color: black;
+    color: chartreuse;
+    font-weight: 100;
+    letter-spacing: 2px;
+    font-family: monospace;
+}
+
+@keyframes stop {
+    100% {font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+}
+
+h1:hover {
+    font-weight: bold;
+    
+
+}
